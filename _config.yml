@@ -1,4 +1,3 @@
-layout_spectrum: 0.7308727886993438
 typography_spectrum: 0.5660317079164088
 color:
   brandStrength: 0.6278620345983654
@@ -11,4 +10,6 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.7308727886993438
 name: El Blog de Daniel Sada
+description: Porque la Vida es muy corta para comer y beber mal.
