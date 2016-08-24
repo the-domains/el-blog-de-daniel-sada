@@ -6,9 +6,9 @@ color:
   saturation: 0.9759946689009666
   rhythmicContrast: 0.0644078862387687
   brandColors:
-    - '#E6E6E6'
-    - '#CCCCCC'
-    - '#D7D7D7'
-    - '#DCDCDC'
-    - '#D2D2D2'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: El Blog de Daniel Sada
